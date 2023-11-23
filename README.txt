@@ -4,7 +4,7 @@ Carol Zhao
 
 Set Up database:
 	1. create a database in PostgreSQL, named Assignment 4
-	2. create table and insert data
+	2. create table and insert data and run
 	3. download the .jar which is the newest version
 	4. set up .jar and jdk in project structure, add .jar in the library.
 	5. connect the database with password and username and host
